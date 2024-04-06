@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rohith7299017
+- 👋 Hi, I’m @Rohith
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ntohing for now
+- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me DON'T
 - 😄 Pronouns: err/bug
 - ⚡ Fun fact: STAY HARD
