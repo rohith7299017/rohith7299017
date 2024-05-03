@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Rohith
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me DON'T
-- 😄 Pronouns: err/bug
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Java
+- 💞️ I’m not looking to collaborate on anything for now
 - ⚡ Fun fact: STAY HARD
 
 <!---
