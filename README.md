@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohith
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Machine Learning
 - ⚡ Fun fact: STAY HARD
 
 <!---
