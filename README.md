@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohith
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in using my knowledge to improve the quality of life of all humans
+- 🌱 I’m currently learning about LLMs and AI Agents.
 - ⚡ Fun fact: STAY HARD
 
 <!---
